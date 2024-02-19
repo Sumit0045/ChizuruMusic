@@ -19,7 +19,7 @@
             "value": "",
             "required": true
         },
-        "STRING_SESSION": {
+        "SESSION_STRING": {
             "description": "A Pyrogram v2 String Session.",
             "value": "",
             "required": true
@@ -27,7 +27,7 @@
         "SUDO_USERS": {
             "description": "Brother Here fill your friends user id ex 12334 23445",
             "value": "",
-            "required": false
+            "required": true
         }
     },
     "buildpacks": [
