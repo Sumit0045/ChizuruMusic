@@ -3,7 +3,7 @@
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://graph.org/file/5d73d3a4940ea78fbc7f3.jpg",
     "keywords": ["python3","telegram","MusicBot","telegram-bot","pyrogram"],
-    "stack": "container"
+    "stack": "container",
     "env": {    
         "BOT_TOKEN": {
             "description": "A Bot's token from Botfather",
