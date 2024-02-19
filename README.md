@@ -1,4 +1,4 @@
-#  ˹ʜɪʀᴏᴋᴏ ꝛᴏʙᴏᴛ˼ 
+#  ˹ᴄʜɪᴢᴜʀᴜ ᴍᴜsɪᴄ˼ 
 
 <p align="center"><img src="https://graph.org/file/bf1dae161eaca5cefdbd2.jpg" width="300"></a></p>
 <p align="center">
