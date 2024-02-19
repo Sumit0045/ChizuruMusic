@@ -1,0 +1,17 @@
+ffmpeg-python
+py-tgcalls==1.1.2
+pyrogram
+python-dotenv
+tgcrypto
+youtube_search
+yt-dlp
+pytube
+pillow
+aiofiles
+numpy
+wget
+pydub
+aiohttp
+motor
+lexica-api
+bs4

@@ -1,0 +1,46 @@
+{
+    "name": "Chizuru Music",
+    "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
+    "logo": "https://graph.org/file/5d73d3a4940ea78fbc7f3.jpg",
+    "keywords": ["python3","telegram","MusicBot","telegram-bot","pyrogram"],
+    "env": {    
+        "BOT_TOKEN": {
+            "description": "A Bot's token from Botfather",
+            "value": "",
+            "required": true
+        },
+        "MONGO_URL": {
+            "description": "Get a mongodb url from https://cloud.mongodb.com.",
+            "value": "",
+            "required": true
+        },
+        "OWNER_ID": {
+            "description": "The user id of user whom you would like to add as OWNER.",
+            "value": "",
+            "required": true
+        },
+        "STRING_SESSION": {
+            "description": "A Pyrogram v2 String Session.",
+            "value": "",
+            "required": true
+        },
+        "SUDO_USERS": {
+            "description": "Brother Here fill your friends user id ex 12334 23445",
+            "value": "",
+            "required": false
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        },
+        {
+            "url": "heroku/nodejs"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+        }
+    ],
+    "stack": "container"
+}
+
